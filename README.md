@@ -13,4 +13,4 @@ Link: _https://github.com/anujvyas/Machine-Learning-Projects/tree/master/Diabete
 
 • A glimpse of the web app:
 
- ![Screenshot](readme_resources/Screenshot from 2020-06-11 21-25-36.png)
+ ![alt tag](https://github.com/akhiilkasare/diabetes-prediction-deployment/blob/master/readme_resources/Screenshot%20from%202020-06-11%2021-25-36.png)
