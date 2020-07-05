@@ -7,7 +7,7 @@
 Deployed at: _https://diabetesdetection.herokuapp.com/_
 
 • If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you won't find it here. Click the link mentioned below for the same:<br />
-Link: _https://github.com/akhiilkasare/diabetes-prediction-using-machine-learning/blob/master/Diabetes%20Detection%20Using%20Machine%20Learning.ipynb_
+Link: _https://github.com/akhiilkasare/IPL-score-predictor-using-machine-learning/blob/master/Untitled.ipynb_
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
